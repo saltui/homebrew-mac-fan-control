@@ -1,6 +1,6 @@
 cask "mac-fan-control" do
-  version "1.0.0"
-  sha256 "94a55af93e142c79ef74e6aa0165ae290186db5998245852579ef29707d6f69d"
+  version "1.1.0"
+  sha256 "f016cce5855ade98fde7f32845110f5dddee38ab2aded8de7ef63db2bacac61c"
 
   url "https://github.com/saltui/mac-fan-control/releases/download/v#{version}/FanControl-#{version}.zip"
   name "Mac Fan Control"
